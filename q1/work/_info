@@ -1,0 +1,73 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/questa/examples
+T_opt
+!s110 1758921551
+V39@FhjLMWaPF7[;WMLiT;2
+04 14 4 work shift_register fast 0
+04 17 4 work shift_register_tb fast 0
+=1-988fe064c3ae-68d7034f-159-536c
+R0
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2022.4;75
+vshift_register
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1758921532
+!i10b 1
+!s100 MY6F]a8a8`5VR0F^In^AH3
+Ib37O7izFiIVIZB`URD_OJ0
+S1
+Z3 dC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1
+w1758919388
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_regiter.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_regiter.sv
+!i122 1
+L0 1 33
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2022.4;75
+r1
+!s85 0
+31
+!s108 1758921532.000000
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_regiter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_regiter.sv|
+!i113 0
+Z6 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vshift_register_tb
+R2
+!s110 1758921531
+!i10b 1
+!s100 lkHdU_bgCMeJ4Ja<J]H7`0
+IgMeQjX1@W^[<mXSh310oY3
+S1
+R3
+w1758920539
+8C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_register_tb.sv
+FC:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_register_tb.sv
+!i122 0
+L0 1 139
+R4
+R5
+r1
+!s85 0
+31
+!s108 1758921531.000000
+!s107 C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_register_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/lbw/github-classroom/kth-ees/il2234ht25-homework-2-eiiluwyy-sys/q1/shift_register_tb.sv|
+!i113 0
+R6
+R1
